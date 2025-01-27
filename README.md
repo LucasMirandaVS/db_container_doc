@@ -8,3 +8,9 @@ Este projeto utiliza Docker para configurar o ambiente de desenvolvimento. Siga 
 ```bash
 git clone <URL_DO_REPOSITORIO>
 cd <NOME_DO_DIRETORIO>
+
+
+docker build ...
+
+docker run 
+```
